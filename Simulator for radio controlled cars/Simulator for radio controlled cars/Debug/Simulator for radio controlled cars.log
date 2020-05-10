@@ -1,0 +1,7 @@
+﻿  Car.cpp
+  Main.cpp
+  Simulation.cpp
+c:\users\allan kamuran\dropbox\hiq\simulator for radio controlled cars - hiq\simulator for radio controlled cars - hiq\simulation.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\allan kamuran\dropbox\hiq\simulator for radio controlled cars - hiq\simulator for radio controlled cars - hiq\simulation.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Simulator for radio controlled cars - HiQ.vcxproj -> C:\Users\Allan Kamuran\Dropbox\HiQ\Simulator for radio controlled cars - HiQ\Debug\Simulator for radio controlled cars - HiQ.exe
